@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kosmos-ReactJS/static/css/main.8f69bfa5.css",
+    "main.js": "/Kosmos-ReactJS/static/js/main.a6e31174.js",
+    "index.html": "/Kosmos-ReactJS/index.html",
+    "main.8f69bfa5.css.map": "/Kosmos-ReactJS/static/css/main.8f69bfa5.css.map",
+    "main.a6e31174.js.map": "/Kosmos-ReactJS/static/js/main.a6e31174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f69bfa5.css",
+    "static/js/main.a6e31174.js"
+  ]
+}
